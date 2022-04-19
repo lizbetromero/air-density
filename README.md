@@ -5,4 +5,4 @@
 
 ## Installation Instructions
 
-#######* First Step: Make sure Rhino is intalled on your computer.
+* First Step: Make sure Rhino is intalled on your computer.
