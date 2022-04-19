@@ -6,3 +6,4 @@
 ## Installation Instructions
 
 * First Step: Make sure Rhino is intalled on your computer.
+* Second Step: Click on the "Code" button and select "Download ZIP", this will provide the plugin file to use for Rhino.
